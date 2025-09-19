@@ -3,7 +3,7 @@
 3. For this AI agent, the query is any research topic and the task is saving the answer to a text file.  
 4. For example, the query could be "Tell me about AI agents", and the task could be "Save to a file".  
 5. For the aforementioned query, the AI agent would automate task by provide an answer as to what AI agents are, and saving the answer to a txt file.
-6. The AI agent utilises DuckDuckGo search and wikipedia to respons to queries.
+6. The AI agent utilises OpenAI api, DuckDuckGo search, and wikipedia to respons to queries.
 7. The AI agent utilises the GPT-4o-mini LLM.
 8. To run the project:
 9. A) Create a virtual environment
