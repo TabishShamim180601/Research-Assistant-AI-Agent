@@ -1,6 +1,6 @@
 1. The project is that of a Research assistant AI agent.      
 2. A query can be provided to the research assistant alongside a task. The research assistant would answer the query and perform the task.  
-3. For this AI agent, the query is any research topic and the task is "Save to a file".  
+3. For this AI agent, the query is any research topic and the task is saving the answer to a text file.  
 4. For example, the query could be "Tell me about AI agents", and the task could be "Save to a file".  
 5. For the aforementioned query, the AI agent would provide an answer as to what AI agents are, and would save the answer to a txt file.
 6. The AI agent utilises DuckDuckGo search and wikipedia to respons to queries.
