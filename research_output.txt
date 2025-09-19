@@ -1,0 +1,5 @@
+---Research Output ---
+Timestamp: 2025-09-19 17:58:07
+
+AI agents refer to autonomous systems that utilize artificial intelligence to perform tasks or make decisions without human intervention. These agents are designed to perceive their environment, reason about the information they gather, and take actions to achieve specific goals. AI agents can be categorized into various types, including simple reactive agents, deliberative agents, and learning agents, depending on their complexity and capabilities. They are used in a wide range of applications such as robotics, virtual assistants, games, and automated trading systems.
+
